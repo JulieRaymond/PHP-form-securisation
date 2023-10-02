@@ -30,7 +30,6 @@
     <div>
       <label for="subject">Sujets :</label>
       <select id="subject" name="subject">
-        <option value="null" selected>Choisir ici</option>
         <option value="information">Informations</option>
         <option value="aide">Aide</option>
         <option value="assistance">Assistance</option>
